@@ -1,0 +1,10 @@
+role,content
+system,Quiero que me ayudes
+user,hola
+assistant,¡Hola! ¿En qué puedo ayudarte hoy?
+user,"me llamo Rafa , soy data science"
+assistant,¡Hola Rafa! Me alegra saber que eres un profesional en Data Science. ¿En qué puedo ayudarte con respecto a este tema?
+user,como me llamo?
+assistant,"Tu nombre es Rafa, según lo que me has dicho anteriormente. ¿Hay algo más en lo que pueda ayudarte?"
+user,a que me dedico?
+assistant,"Según lo que me has dicho antes, te dedicas a Data Science. ¿Hay algo más que pueda hacer por ti?"
