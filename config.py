@@ -5,7 +5,7 @@ from rich.table import Table
 
 import time
 from rich.progress import track
-API_KEY = "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"
+API_KEY = ""
 
 logo = """
                                                                                                                                                ████
